@@ -1,7 +1,7 @@
 <packageInfo>
-    <bundleId>com.treeear.exampletweak</bundleId>
-    <name>TreeEar</name>
-    <version>0.0.1</version>
+    <bundleId>com.treeear.hideclock</bundleId>
+    <name>Example Tweak</name>
+    <version>0.0.2</version>
     <descriptions>
         <description>
             An example package for testing out our personal Cydia repository
@@ -11,8 +11,8 @@
         </description>
     </descriptions>
     <compatibility>
-        <miniOS>13.0</miniOS>
-        <maxiOS>14.0</maxiOS>
+        <miniOS>11.0</miniOS>
+        <maxiOS>11.1.2</maxiOS>
     </compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
