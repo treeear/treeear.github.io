@@ -1,0 +1,31 @@
+<packageInfo>
+    <bundleId>com.treeear.statusbartext</bundleId>
+    <name>StatusBarText</name>
+    <version>0.0.1</version>
+    <descriptions>
+        <description>
+            Hola
+        </description>
+        <description>
+            Nada
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>14.0</miniOS>
+        <maxiOS>14.4</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.2 </changeVersion>
+            <changeDescription>Boop</changeDescription>
+            <changeDescription>Beep</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
